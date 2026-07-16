@@ -6,7 +6,7 @@
 
 *"Securing today's infrastructure while exploring tomorrow's AI."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/paulpenning)
 
 </div>
 
@@ -99,7 +99,7 @@ I enjoy building and maintaining a homelab where I can safely experiment with:
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: www.linkedin.com/in/paul-penning-b409a3191
+- 💼 LinkedIn: www.linkedin.com/in/paulpenning
 
 ---
 
