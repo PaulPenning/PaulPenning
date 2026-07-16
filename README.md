@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Hi there, I'm Paul Penning 👋
@@ -111,4 +110,3 @@ I enjoy building and maintaining a homelab where I can safely experiment with:
 ⭐ Thanks for stopping by!
 
 </div>
-````
